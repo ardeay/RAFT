@@ -1,5 +1,5 @@
 # RAFT (Randy's ANSI Flowchart Text)
-An inline language for writing standardized [ANSI](https://www.ansi.org/) flow charts with simple text.
+A language for writing standardized [ANSI](https://www.ansi.org/) flow charts with simple text.
 
 ## Objectives
 
