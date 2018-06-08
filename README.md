@@ -15,7 +15,7 @@ RAFT's goal is to make an easy way to create flows within text based documention
 
 ## Examples
 
-( Server ) -> Flowline Comment -> ] Handles Request [ -> / prepares data for database insertion / -> ((( Database X )))
+( Server ) -> Flowline Comment -> ] Handles Request [ -> // prepares data for database insertion // -> ((( Database X )))
 
 # Symbols
 
@@ -31,7 +31,7 @@ Text representation of ANSI/ISO Standard Symbols taken from https://en.wikipedia
 
 < Decision >
 
-/ Input or Output /
+// Input or Output //
 
 -[ Annotation ]-
 
