@@ -5,32 +5,36 @@ I document a lot of software, and flows are always very helpful. Creating flows 
 
 # Symbols
 
-Text representation of ANSI Standard Symbols
+Text representation of ANSI/ISO Standard Symbols taken from https://en.wikipedia.org/wiki/Flowchart
 
-## Production Activity Symbols
+## Common Symbols
 
-| Activity or Operation |
+-> Flowline of Control ->
+
+( Terminal )
+
+| Activity or Process or Operation |
 
 < Decision >
 
--> Flow of Control ->
-
-~ Report ~
-
-## Documentation Symbols
-
-(_ Start/End _)
-
-( A ) 
+/ Input or Output /
 
 --[ Annotation ]--
 
-## Transportation Actibity Symbols
+[| Predined Process |]
 
-^/ Transmission ^/
+( C ) `An on-page connector that uses a single letter that is tied to a definition written in a legend`
+
+{ Off-page Connector }
+
+## Other Symbols
+
+(_( Datafile or Database )_)
+
+~ Document ~
+
+== Parallel Mode ==
+
+^/ Manual Operation ^/
 
 [ Physical Movement ]=>
-
-## Inspection Activity Symbols
-
-( Inspection )
