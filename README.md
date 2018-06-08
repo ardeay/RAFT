@@ -23,15 +23,15 @@ Text representation of ANSI/ISO Standard Symbols taken from https://en.wikipedia
 
 ( Terminal )
 
-| Activity or Process or Operation |
+[ Activity or Process or Operation ]
 
 < Decision >
 
 / Input or Output /
 
---[ Annotation ]--
+-[ Annotation ]-
 
-[| Predined Process |]
+[[ Predined Process ]]
 
 ( C ) `An on-page connector that uses a single letter that is tied to a definition written in a legend`
 
