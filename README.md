@@ -1,3 +1,5 @@
+![RAFT](RAFT.png "RAFT")
+
 # RAFT (Randy's ANSI Flowchart Text)
 A language for writing standardized [ANSI](https://www.ansi.org/) flow charts with simple text.
 
