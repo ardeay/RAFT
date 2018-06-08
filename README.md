@@ -13,6 +13,10 @@ RAFT's goal is to make an easy way to create flows within text based documention
 * It needs to be as simple as possible
 * It needs to be quickly read and understood by a human
 
+## Examples
+
+( Server at Rest ) -> ] Handles Request [ -> / prepares data for database insertion / -> (_( database accepts new row )_)
+
 # Symbols
 
 Text representation of ANSI/ISO Standard Symbols taken from https://en.wikipedia.org/wiki/Flowchart
