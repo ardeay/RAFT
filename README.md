@@ -15,7 +15,7 @@ RAFT's goal is to make an easy way to create flows within text based documention
 
 ## Examples
 
-( Server at Rest ) -> ] Handles Request [ -> / prepares data for database insertion / -> (_( database accepts new row )_)
+( Server at Rest ) -> ] Handles Request [ -> / prepares data for database insertion / -> ((O database accepts new row O))
 
 # Symbols
 
@@ -43,7 +43,7 @@ Text representation of ANSI/ISO Standard Symbols taken from https://en.wikipedia
 
 ## Other Symbols
 
-(_( Datafile or Database )_)
+((O Datafile or Database O))
 
 ~ Document ~
 
