@@ -1,7 +1,9 @@
 # RAFT (Randy's ANSI Flowchart Text)
-A specification for standardizing [ANSI](https://www.ansi.org/) flow charts into simple text for README.md files
+An inline language for writing standardized [ANSI](https://www.ansi.org/) flow charts with simple text.
 
-I document a lot of software, and flows are always very helpful. Creating flows in software can be cumbersome. Often flow charts are not made for little things, even though it was be very helpful. The goal of this specification is to create a way to produce flows for simple things withing README files.
+## Objectives
+
+RAFT's goal is to make an easy way to create flows within text based documention without the use of images or visual editors. 
 
 # Symbols
 
