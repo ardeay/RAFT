@@ -19,7 +19,7 @@ Text representation of ANSI/ISO Standard Symbols taken from https://en.wikipedia
 
 ## Common Symbols
 
--> Flowline of Control ->
+-> Flowline ->
 
 ( Terminal )
 
