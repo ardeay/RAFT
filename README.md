@@ -31,7 +31,7 @@ Text representation of ANSI/ISO Standard Symbols taken from https://en.wikipedia
 
 -[ Annotation ]-
 
-|[ Predined Process ]|
+|] Predined Process [|
 
 ( C ) `An on-page connector that uses a single letter that is tied to a definition written in a legend`
 
