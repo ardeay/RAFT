@@ -15,7 +15,7 @@ RAFT's goal is to make an easy way to create flows within text based documention
 
 ## Examples
 
-( Server at Rest ) -> Flowline Comment -> ] Handles Request [ -> / prepares data for database insertion / -> ((( Database X )))
+( Server ) -> Flowline Comment -> ] Handles Request [ -> / prepares data for database insertion / -> ((( Database X )))
 
 # Symbols
 
