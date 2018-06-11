@@ -5,7 +5,7 @@ A language for writing standardized [ANSI](https://www.ansi.org/) flow charts wi
 
 ## Objectives
 
-RAFT's goal is to make an easy way to create flows within text based documention without the use of images or visual editors. 
+RAFT's goal is to make an easy way to create flows within text based documentation without the use of images or visual editors.
 
 ## Spec
 
